@@ -20,7 +20,7 @@ Some Points:
 
 ##Sample Turtle commands
 
-Move 30            Moves by 30 in current direction
+Move 30            Moves by 30 in current direction:
 Pen-Up             Makes the Pen up so that drawing is not visible
 Move -20           Moves turtle backwards by 20 units
 Pen-Down           Makes Pen Down so that drawing is visible
@@ -35,3 +35,4 @@ Turn -60           Turns the turtle anticlockwise 60 degrees
 ## License
 
 Copyright © 2014 Santosh R Yadav
+Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
