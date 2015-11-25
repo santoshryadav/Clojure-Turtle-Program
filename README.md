@@ -2,9 +2,7 @@
  A Quil sketch designed to draw Turtle and execute turtle commands in a Quil window.
 ## Usage
 
-LightTable - Open the project in Light Table. Open the file `core.clj` in the 
-"assignment3\src\assignment3" folder and press `Ctrl+Shift+Enter` to evaluate the file. 
-Once the file is evaluated the turtle will be displayed in a quil window. As such there is no first function to be called. The functions should be called form top to bottom.
+LightTable - Open the project in Light Table. Open the file `core.clj` in the and press `Ctrl+Shift+Enter` to evaluate the file. Once the file is evaluated the turtle will be displayed in a quil window. As such there is no first function to be called. The functions should be called form top to bottom.
 
 Some Points:
 1.) The original position of the turtle is at centre of window and pointing towards right.
