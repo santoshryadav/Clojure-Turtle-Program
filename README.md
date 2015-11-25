@@ -20,7 +20,7 @@ Some Points:
 11.) The commands are present in file named as: Turtle_Commands which is placed inside the project.
 
 
-##Sample Turtle commands:-
+##Sample Turtle commands
 
 Move 30            Moves by 30 in current direction
 Pen-Up             Makes the Pen up so that drawing is not visible
